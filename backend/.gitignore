@@ -1,0 +1,19 @@
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# TypeScript build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# VS Code workspace settings
+.vscode/
+
